@@ -1,2 +1,2 @@
 # dataquest-projects
-This repo contains Dataquest challenges and guided projects.
+This repo contains interesting Dataquest challenges and guided projects.
